@@ -1,2 +1,2 @@
 # frontend
- developer uses
+ developer user fronted
